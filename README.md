@@ -16,7 +16,7 @@ You will be asked for your subscription's secondary key, the path you would like
 
 ### List available branches
 
-```bash
+```
 Paris@open-bank-curl:/mnt/project$ bash nbg.sh
 Enter your subscription's secondary key:
 654125f4869f4f48b79e2782ec12b387
